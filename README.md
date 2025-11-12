@@ -1,8 +1,13 @@
 # coding_dashboard
+## Dev Environment details:
 
-## Set JAVA_HOME to JDK17 and run './gradlew bootRun'
+### Starting Application
+- Set JAVA_HOME to JDK17 
+- run `./gradlew bootRun`
 
-
-### Dev Environment details:
+### LOGIN
 - Test User Login: test/password
 - Admin login: admin/password
+
+### Sample Data
+After login import `resources/coding_dashboard_export.txt`
